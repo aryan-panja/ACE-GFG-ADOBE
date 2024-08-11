@@ -10,6 +10,8 @@ We have 4 different files include:-
 3. Symmetries in the curves and
 4. Complementing the curves.
 
+Apart from these,we have used some extra files for test cases which we have put in testcases folder.
+
 ## Steps to use this Code.
 
 `INPUT`
